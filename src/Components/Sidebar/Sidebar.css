@@ -1,0 +1,29 @@
+.Sidebar{
+    background-color:rgb(23, 23, 50) ;
+    height: 100vh;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.Header-Sidebar{
+    margin-top: 2rem;
+   align-self: center;
+   font-weight: 700;
+   font-size: 2rem;
+   color: white;
+}
+.List-Sidebar{
+    margin-left: 2rem;
+    color: white;
+}
+.Nav-List{
+    font-weight: 600;
+    height: 3rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.Icons-Nav{
+    margin-right: 1rem;
+}
